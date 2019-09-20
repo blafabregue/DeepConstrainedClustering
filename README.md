@@ -1,4 +1,4 @@
-# Deep constrained clustering applied to satelliteimage time series -- Code
+# Deep constrained clustering applied to satellite image time series
 
 This is the code corresponding to the experiments conducted for the work
 "Deep constrained clustering applied to satelliteimage time series" (Baptiste Lafabregue, Jonathan Weber, Pierre Gançarki & Germain Forestier)
